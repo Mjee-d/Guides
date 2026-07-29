@@ -20,8 +20,10 @@ This guide walks through setting up **Ubuntu 22.04 LTS** using **Windows Subsyst
     ```
    <img width="471" height="105" alt="image" src="https://github.com/user-attachments/assets/e26514d9-3780-473f-9c8b-553b4a179cd1" />
 
-   then:
    Install Ubuntu 22.04 LTS:
+  ```bash
+  wsl --install -d Ubuntu-22.04
+  ```
    <img width="443" height="69" alt="image" src="https://github.com/user-attachments/assets/a635a4af-e2f8-41f6-925c-8f285fa4e84f" />
 
    after that you have to reboot the system
